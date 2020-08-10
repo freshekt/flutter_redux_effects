@@ -1,4 +1,4 @@
-import 'package:pwapp/shared/Effect.dart';
+import 'Effect.dart';
 
 abstract class BaseEffect {
   Effect effect();
